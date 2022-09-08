@@ -1,1 +1,1 @@
-# ActivityREcognition
+# ActivityRecognition
